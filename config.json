@@ -1,0 +1,10 @@
+{
+    "name": "ExportWithAudio-Anki",
+    "mod": 1689345600,
+    "author": "stevenw",
+    "version": "1.0",
+    "target": "2.1.50",
+    "conflicts": [],
+    "min_point_version": 50,
+    "max_point_version": 54
+}
